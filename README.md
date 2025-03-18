@@ -1,12 +1,15 @@
-# SQL Exercise 2
+# SQL Exercise 3
 
 sql pdf: https://drive.google.com/file/d/1d6qZTlxu_g44G1RraEx_snEtDkgQVbQz/view?usp=sharing
 
-Sample data is given in data.txt file. You should execute sql code in database management system.
-
 ---
 
-### 1. List all employees along with their department names.
+### 1. Create a table called Employees with the following columns:
+       	•	id (integer, primary key)
+       	•	name (varchar(50))
+       	•	position (varchar(50))
+       	•	salary (decimal)
+       	•	hire_date (date)
 
 ### 2. Show all employees working in the Engineering department.
 
