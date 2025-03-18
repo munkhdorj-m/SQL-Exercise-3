@@ -33,7 +33,7 @@ sql pdf: https://drive.google.com/file/d/1d6qZTlxu_g44G1RraEx_snEtDkgQVbQz/view?
 ### 6. Insert a new employee with the following data:
 	•	id = 4, name = 'Michael Brown', position = 'HR', salary = 47000, hire_date = '2022-02-25', email = 'michael.brown@example.com'
 
-### 7. Delete the Design department (Delete employee from that department as well).
+### 7. Delete the Design department.
 
 ### 8. Delete the employee with id = 4 from the Employees table.
 
